@@ -47,6 +47,9 @@ java -jar StegExpose.jar suspect.jpg
 ## OUTPUT:
 List of Images with Steganography Detection Scores and File Signature Details
 
+<img width="940" height="798" alt="image" src="https://github.com/user-attachments/assets/ad2f44af-7a3e-41ee-a145-b6d5428a3190" />
+
+
 <img width="747" height="195" alt="image" src="https://github.com/user-attachments/assets/84c0ab62-c2c3-4a73-a3fd-8db0e502875b" />
 
 
