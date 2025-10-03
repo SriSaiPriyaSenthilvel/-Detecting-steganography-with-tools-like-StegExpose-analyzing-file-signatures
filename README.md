@@ -49,9 +49,9 @@ List of Images with Steganography Detection Scores and File Signature Details
 
 <img width="940" height="798" alt="image" src="https://github.com/user-attachments/assets/ad2f44af-7a3e-41ee-a145-b6d5428a3190" />
 
+<img width="732" height="122" alt="image" src="https://github.com/user-attachments/assets/e304c771-a52a-465c-b49c-0d99f5d5121a" />
 
-<img width="747" height="195" alt="image" src="https://github.com/user-attachments/assets/84c0ab62-c2c3-4a73-a3fd-8db0e502875b" />
-
+<img width="432" height="93" alt="image" src="https://github.com/user-attachments/assets/26fa5835-c71d-4d9f-adf0-3174ecaa5aec" />
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
